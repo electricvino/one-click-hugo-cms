@@ -21,11 +21,11 @@ intro:
     with my faith and express my beliefs through this writing.  I hope it
     connects with others and encourages a voice not represented by the
     "religious right".
-products:
+resources:
   - image: /img/about-direct-sourcing.jpg
-    text: Have articles about inspiring people
-  - image: /img/products-grid2.jpg
-    text: Discuss current events through the lens of Christ's teachings.
+    text: Highlighting leaders in the Christian Left and other movements
+  - image: /img/illustrations-tutorials.svg
+    text: Articles of interest
 values:
   heading: Our values
   text: >-
