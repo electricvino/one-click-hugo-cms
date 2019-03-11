@@ -1,41 +1,36 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: Put God First
+subtitle: Exploring the power of Christ without evangelicalism
 image: /img/about-reinvest-profits.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: What this is about
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    I was tired of having my beliefs twisted and misrepresented by the
+    evangelical community.  The current partnering of the GOP and Christians is
+    contrary to the very teachings of Christ.  I know I am not alone in this
+    belief and wanted a way to share my beliefs with others.
 intro:
-  heading: What we offer
+  heading: What we do
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    I've created this site to share positive stories about those who I believe
+    are following in Christ's steps and should serve as role models for others. 
+    While I am going to call out the wolves dressed as lambs, I do want to try
+    and stay positive with this experience and hope it becomes about community.
+
+    In addition, this is going to be about my personal journey as I reconnect
+    with my faith and express my beliefs through this writing.  I hope it
+    connects with others and encourages a voice not represented by the
+    "religious right".
 products:
-  - image: img/illustrations-coffee.svg
-    text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+  - image: /img/about-direct-sourcing.jpg
+    text: Have articles about inspiring people
+  - image: /img/products-grid2.jpg
+    text: Discuss current events through the lens of Christ's teachings.
 values:
   heading: Our values
   text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+    I want to share inspiring acts of others that I find.  I also will be trying
+    to shine a light on current events and how Christ's teaching inform us about
+    today's world.
 ---
 
