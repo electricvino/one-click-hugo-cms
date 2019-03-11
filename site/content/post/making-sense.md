@@ -1,6 +1,6 @@
 ---
 title: Red Letter Church
-date: 2016-12-17T15:04:10.000Z
+date: 2019-03-11T02:04:00.000Z
 description: What if the Church simply followed Christ's teaching alone?
 image: ''
 ---
