@@ -2,7 +2,7 @@
 title: Red Letter Church
 date: 2019-03-11T02:04:00.000Z
 description: What if the Church simply followed Christ's teaching alone?
-image: ''
+image: /img/redletter.jpg
 ---
 [What if We Were a Red Letter Church?](https://www.patheos.com/blogs/shanephipps/2019/03/03/what-if-we-were-a-red-letter-church/)
 
